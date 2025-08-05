@@ -1,17 +1,17 @@
 <resources>
     <!--App-->
-    <string name="app_name">RoomJetpackCompose</string>
+    <string name="app_name">GestionDesLivres</string>
     <string name="db_name">books_db</string>
     <!--Screen Titles-->
-    <string name="book_list_screen_title">"Book List"</string>
-    <string name="book_details_screen_title">"Book Details"</string>
+    <string name="book_list_screen_title">"Liste Des Livres"</string>
+    <string name="book_details_screen_title">"Livres Details"</string>
     <!--Texts-->
-    <string name="empty_book_list_text">"The book list is empty."</string>
-    <string name="insert_book">"Insert book"</string>
+    <string name="empty_book_list_text">"La liste des Livres est vide."</string>
+    <string name="insert_book">"Inserer Livre"</string>
     <!--Buttons-->
-    <string name="insert_button">"Insert"</string>
-    <string name="update_button">"Update"</string>
-    <string name="cancel_button">"Cancel"</string>
+    <string name="insert_button">"Inserer"</string>
+    <string name="update_button">"Modifier"</string>
+    <string name="cancel_button">"Annuler"</string>
     <!--Icons-->
     <string name="edit_icon">"Edit"</string>
     <string name="delete_icon">Delete</string>
@@ -19,12 +19,12 @@
     <string name="open_insert_book_dialog">"Open insert book dialog."</string>
     <string name="navigate_back">Navigate back</string>
     <!--Placeholders-->
-    <string name="book_title">"Type a book title…"</string>
-    <string name="book_author">"Type a book author…"</string>
+    <string name="book_title">"Ecrire le titre du livre"</string>
+    <string name="book_author">"Ecrire l'auteur du livre"</string>
     <!--Messages-->
-    <string name="empty_book_field_message">"Book %1$s cannot be empty."</string>
-    <string name="no_book_updates_message">"No book updates performed."</string>
-    <string name="book_action_message">"Book successfully %1$s."</string>
+    <string name="empty_book_field_message">"Livre %1$s ne peut pas etre vide."</string>
+    <string name="no_book_updates_message">"Aucune modification effectué."</string>
+    <string name="book_action_message">"Livre %1$s avec reussite."</string>
     <!--Testing-->
     <string name="title_test">"Title Test"</string>
     <string name="author_test">"Author Test"</string>
